@@ -1,10 +1,8 @@
 
 #!/bin/bash -x
 echo "Welcome to calculator program"
-num1=4
-num2=7
-add=$((num1 + num2))
-echo $add
+num1=10
+num2=2
 
-sub=$((num1 - num2))
-echo $sub
+div=$((num1/num2))
+echo $div
