@@ -1,7 +1,7 @@
 
 #!/bin/bash -x
 echo "Welcome to calculator program"
-num1=10
+num1=12
 num2=2
 
 div=$((num1/num2))
